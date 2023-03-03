@@ -20,7 +20,7 @@ fn main() {
 
         let temp_f = (temp * (9.0/5.0)) + 32.0;
 
-        println!("The result it: {temp_f} deg F");
+        println!("The result is: {temp_f} deg F");
         break;
     }
     
